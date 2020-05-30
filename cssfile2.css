@@ -1,0 +1,161 @@
+.navigation
+{
+	background-color: #ff6600;
+	/*margin-bottom: 0px;*/
+}
+.inline
+{
+	display: inline;
+	padding: 0 5px;
+	font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+}
+.faraway
+{
+	display: inline;
+	/*padding-left: 40%;
+	padding-right: 0%;
+	margin-right: 0%;
+	*/
+	float: right;
+}
+body
+{
+	width: 84%;
+	margin: auto;
+}
+.firstclass
+{
+	padding-left: 0px;
+	display: inline;
+	margin-left: 0px;
+	border-left: 0px;
+	font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+}
+.ulclass
+{
+	margin-left: 0px;
+	padding-left: 0px;
+	border-left: 0px;
+	border-top: 10px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.link
+{
+	text-decoration: none;
+	color: black;
+}
+.outline
+{
+	display: inline;
+	padding-left: 2px;
+	padding-right: 10px;
+	font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+}
+.between
+{
+	display: inline;
+}
+.secondclass
+{
+	padding-left: 0px;
+	display: inline;
+	margin-left: 0px;
+	border: 2px;
+	border-style: solid;
+}
+article
+{
+	background-color: #a0a0a01f;
+}
+.title
+{
+	font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+}
+.halla
+{
+	padding-top: 0px;
+	margin-top: 0px;
+	border-top: 0px;
+	font-family: Verdana, Geneva, sans-serif;
+    font-size: 7pt;
+}
+.footerlink
+{
+	text-decoration: none;
+	color: black;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 8pt;
+	padding-right: 5px;
+}
+.footertext
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 8pt;
+	padding-right: 5px;
+}
+.footerlink1
+{
+	text-decoration: none;
+	color: black;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 8pt;
+	padding-right: 5px;
+	/*padding-left: 270px;*/
+	/*margin-left: 270px;*/
+}
+.footertext2
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+	padding-right: 5px;
+	/*padding-left: 450px;*/
+}
+.newlink
+{
+	text-decoration: none;
+	color: black;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+	margin-left: 40px; 
+	margin-top: 20px;
+	border-top: 20px;
+	padding-top: 20px;
+}
+.divclass
+{
+	background-color: #ff6600;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	border-top: 1px;
+	border-bottom: 1px;
+}
+.newinline
+{
+	display: inline;
+	padding: 0 5px;
+	font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+}
+.footer
+{
+	position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+}
+.ulclass1
+{
+	display: none;
+}
+.ulclass2
+{
+	display: none;
+}
+
